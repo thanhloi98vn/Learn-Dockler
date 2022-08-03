@@ -1,0 +1,18 @@
+2022/07/07 03:52:27 [notice] 19#19: using the "epoll" event method
+2022/07/07 03:52:27 [notice] 19#19: nginx/1.21.6
+2022/07/07 03:52:27 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/07/07 03:52:27 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/07 03:52:27 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/07 03:52:27 [notice] 19#19: start worker processes
+2022/07/07 03:52:27 [notice] 19#19: start worker process 20
+2022/07/07 03:52:27 [notice] 19#19: start worker process 21
+2022/07/07 03:52:27 [notice] 19#19: start worker process 22
+2022/07/07 03:52:27 [notice] 19#19: start worker process 23
+2022/07/07 03:52:27 [notice] 19#19: start worker process 24
+2022/07/07 03:52:27 [notice] 19#19: start worker process 25
+2022/07/07 03:52:27 [notice] 19#19: start worker process 26
+2022/07/07 03:52:27 [notice] 19#19: start worker process 27
+2022/07/07 03:52:27 [notice] 19#19: start worker process 28
+2022/07/07 03:52:27 [notice] 19#19: start worker process 29
+2022/07/07 03:52:27 [notice] 19#19: start worker process 30
+2022/07/07 03:52:27 [notice] 19#19: start worker process 31
